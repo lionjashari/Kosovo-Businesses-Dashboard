@@ -1,0 +1,10 @@
+bin/
+etc/
+include/
+lib/
+lib64/
+__psycache__/
+share/
+.git/
+.idea/
+pyvenv.cfg
